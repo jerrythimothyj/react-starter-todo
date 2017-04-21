@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Setup Server",
+      "isComplete": false
+    },
+    {
+      "id": 2,
+      "name": "Start Server",
+      "isComplete": true
+    }
+  ]
+}
